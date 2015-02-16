@@ -8,6 +8,8 @@ Inspired by [awesome-python](https://github.com/avelino/awesome-python) & [aweso
 ### UX Design
 - [User Experience Design](http://www.designerhangout.co/)
 
+## Golang
+- [GOPHER ACADEMY](http://blog.gopheracademy.com/gophers-slack-community/)
 
 ## Javascript
 
