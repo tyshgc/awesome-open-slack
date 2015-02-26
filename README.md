@@ -8,6 +8,10 @@ Inspired by [awesome-python](https://github.com/avelino/awesome-python) & [aweso
 ### UX Design
 - [User Experience Design](http://www.designerhangout.co/)
 
+## Mobile Development
+
+- [#mobilepolitan](http://mobilepolitan.com/): a slack community for mobile developers.Join iOS, Android, Windows Phone and Mobile Web developers to chat about programming, life, work and travel.
+
 ## Golang
 - [GOPHER ACADEMY](http://blog.gopheracademy.com/gophers-slack-community/)
 
