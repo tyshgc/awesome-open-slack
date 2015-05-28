@@ -21,5 +21,6 @@ Inspired by [awesome-python](https://github.com/avelino/awesome-python) & [aweso
 
 ## Javascript
 
-### node.js/io.js
+### Node.JS | io.js
+- [NodeSlackers](http://nodeslackers.io/)
 - [iojs-jp](http://iojs-jp-slack.herokuapp.com/)
