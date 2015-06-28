@@ -21,6 +21,9 @@ Inspired by [awesome-python](https://github.com/avelino/awesome-python) & [aweso
 
 ## Javascript
 
+### React.js | Flux
+- [Reactiflux](http://www.reactiflux.com/)
+
 ### Node.JS | io.js
 - [NodeSlackers](http://nodeslackers.io/)
 - [iojs-jp](http://iojs-jp-slack.herokuapp.com/)
