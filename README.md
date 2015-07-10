@@ -24,6 +24,9 @@ Inspired by [awesome-python](https://github.com/avelino/awesome-python) & [aweso
 ### React.js | Flux
 - [Reactiflux](http://www.reactiflux.com/)
 
+### Babel
+- [BabelJS](https://babel-slack.herokuapp.com/)
+
 ### Node.JS | io.js
 - [NodeSlackers](http://nodeslackers.io/)
 - [iojs-jp](http://iojs-jp-slack.herokuapp.com/)
