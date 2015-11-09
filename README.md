@@ -33,3 +33,9 @@ Inspired by [awesome-python](https://github.com/avelino/awesome-python) & [aweso
 ### Node.JS | io.js
 - [NodeSlackers](http://nodeslackers.io/)
 - [iojs-jp](http://iojs-jp-slack.herokuapp.com/)
+
+## MySQL
+- [mysql-casual](http://mysql-casual-slackin.herokuapp.com/): Japanese MySQL community
+
+## PostgreSQL
+- [postgresql-jp](https://postgresql-hackers-jp.herokuapp.com/): Japanese PostgreSQL community
