@@ -27,6 +27,10 @@ Inspired by [awesome-python](https://github.com/avelino/awesome-python) & [aweso
 ### React.js | Flux
 - [Reactiflux](http://www.reactiflux.com/)
 
+### AngularJS
+- [Angularchat](http://angularchat.co/)
+- [Angular Buddies](http://www.angularbuddies.com/)
+
 ### Babel
 - [BabelJS](https://babel-slack.herokuapp.com/)
 
