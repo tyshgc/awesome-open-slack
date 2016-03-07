@@ -42,5 +42,8 @@ Inspired by [awesome-python](https://github.com/avelino/awesome-python) & [aweso
 ## MySQL
 - [mysql-casual](http://mysql-casual-slackin.herokuapp.com/): Japanese MySQL community
 
+## PHP
+- [PHP Chat](https://phpchat.co) - A community of PHP Programmers from around the world, on Slack.
+
 ## PostgreSQL
 - [postgresql-jp](https://postgresql-hackers-jp.herokuapp.com/): Japanese PostgreSQL community
